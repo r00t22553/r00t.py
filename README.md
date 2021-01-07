@@ -6,7 +6,7 @@ smsAsymetry aracı ise size istediğniz numaraya her gün bir defa sms atmanıza
 Kurulum
 
 >>> apt-get install python3 python3-pip
->>> git clone https://github.com/Asymetry/AsymetryTR..git
+>>> git clone https://github.com/r00t22553/r00t.py
 >>> cd AsymetryTR.
 >>> python3 root.py
 >>> python3 r00tsms.py
